@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="" src="https://i.pinimg.com/originals/a9/8a/1f/a98a1fe05019c395040c7872f7a26be4.gif"  />
+</div>
+
+###
 <h1 align="center">Hi 👋, I'm Chad Silva</h1>
 <h3 align="center">A full stack developer wannabe</h3>
 
