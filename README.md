@@ -6,11 +6,15 @@
 <h1 align="center">Hi 👋, I'm Chad Silva</h1>
 <h3 align="center">A full stack developer wannabe</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=garymcflarry&show_icons=true&locale=en&layout=compact" alt="garymcflarry" /></p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=GaryMcflarry&theme=tokyonight&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GaryMcflarry&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaryMcflarry&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=GaryMcflarry&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaryMcflarry&radius=16&theme=synthwave-84&area=true&order=5&custom_title=Activity&bg_color=2B213A&color=FCFF68&title_color=FCFF68&line=B40DD9&point=D30DC6&area_color=3822DB&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garymcflarry" alt="garymcflarry" /></a> </p>
-
-<p align="left"> </a> </p>
+###
 
 - 🔭 I’m currently working on [Tutor Management Application](https://github.com/GaryMcflarry/TutorManagementApp/blob/main/README.md)
 
