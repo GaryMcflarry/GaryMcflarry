@@ -6,11 +6,9 @@
 <h1 align="center">Hi 👋, I'm Chad Silva</h1>
 <h3 align="center">A full stack developer wannabe</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garymcflarry&label=Profile%20views&color=0e75b6&style=flat" alt="garymcflarry" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=garymcflarry" alt="garymcflarry" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> </a> </p>
 
 - 🔭 I’m currently working on [Tutor Management Application](https://github.com/GaryMcflarry/TutorManagementApp/blob/main/README.md)
 
